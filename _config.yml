@@ -1,5 +1,8 @@
 theme: jekyll-theme-minimal
 title: David Kaindlstorfer
+url                      : https://david-kaindls.github.io 
+baseurl                  : ""
+repository               : "david-kaindls.github.io"
 
 author:
   # Biographic information
