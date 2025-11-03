@@ -1,3 +1,11 @@
 theme: jekyll-theme-minimal
 title: David Kaindlstorfer
-description: PhD student at Rigorous Software Engineering Group under supervision of *Maria Christakis* 
+
+author:
+  # Biographic information
+  avatar           : "profile.png"
+  name             : "David Kaindlstorfer"
+  bio              : "PhD student at Rigorous Software Engineering Group under supervision of *Maria Christakis*"
+  location         : "Vienna, AT"
+  employer         : "TU Wien"
+  email            : "david.kaindlstorfer@tuwien.ac.at" 
