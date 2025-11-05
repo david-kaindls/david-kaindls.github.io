@@ -7,5 +7,4 @@ date: 2024-10-27
 venue: ASE '24
 paperurl: 'https://david-kaindls.github.io/files/ase24-minotaur.pdf'
 bibtexurl: 'https://david-kaindls.github.io/files/ase24-minotaur.bib'
-authors: me
 ---
